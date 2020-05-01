@@ -13,3 +13,22 @@ WHATS GOING ON
  readme-edits
  
  je comprends pas les tags qui se sont insérés wtf 
+ 
+ Markdown, c'est fun pour écrire de la doc
+ 
+Quelques liens:
+- [Markdown][fireball]
+- [MarkDown demo] (https://bitbucket.org/tutorials/markdowndemo/)
+
+Sinon, on peut jouer avec les smileys:
+- :coffee:
+- :pizza:
+
+
+
+
+
+
+-----
+
+[fireball]: http://daringfireball.net/projects/markdown/ 
